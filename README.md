@@ -40,6 +40,9 @@ Used Primary & Foreign Keys for integrity and relationships
 <img width="1424" height="829" alt="14  types of relationship" src="https://github.com/user-attachments/assets/52b74607-6c18-4829-970c-231965002276" />
 <img width="1370" height="836" alt="15  notations" src="https://github.com/user-attachments/assets/c9769843-74b9-4ba7-a310-98b9acf314c6" />
 
+<img width="834" height="258" alt="22  anomalies" src="https://github.com/user-attachments/assets/6f1a59fd-b743-4842-8105-49928138fb95" />
+<img width="1482" height="566" alt="16  anomalies" src="https://github.com/user-attachments/assets/fbefd58c-46cb-472c-9989-13af9891910a" />
+
 
 
 

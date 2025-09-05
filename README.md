@@ -2,17 +2,17 @@
 
 **Project Name: Customer-Churn-Prediction SQL Project using Database Normalization.**
 
-🚀 Problem Statement
+🚀 **Problem Statement**
 
 Telecom companies lose revenue due to customer churn. Managing customer data in one large table 
 leads to redundancy & anomalies.
 
-🚀 Solution
+🚀 **Solution**
 
 Designed a normalized SQL database with ER modeling to efficiently manage churn data, reduce 
 anomalies,  and generate churn insights.
 
-🚀 concepts used in this project.
+🚀 **concepts used in this project**.
 -	Database normalization and entity relationship model
 -	Define database normalization and denormalization
 -	Define Entity Relationship (ER) Model
@@ -22,46 +22,46 @@ anomalies,  and generate churn insights.
 -	Explain cardinalities Notations of ER Diagram 
 -	Define Anomalies and its types [data redundancy, insert anomaly, update anomaly, delete anomaly]
 
-🚀 Goal: 
+🚀 **Goal**: 
 
 - Predicts telecom customer churn by storing, normalizing, and analyzing customer data in SQL.
 
-🚀 Tech stack: 
+🚀 **Tech stack**: 
 
 - MySQL, ER Modeling
 
-🚀 Tech Used
+🚀 **Tech Used**
 
 - MySQL
 - Python (Pandas)
 - Excel/CSV Import
 
-🚀 Key skills shown: 
+🚀 **Key skills shown**: 
 
 - Database Normalization, ER Diagrams, SQL Queries, Data Cleaning, Churn Analysis.
 
-🚀 What I did in this project?
+🚀 **What I did in this project**?
 -	Designed normalized schema
 -	Built ER model
 -	Wrote SQL queries for churn insights
 -	Handled anomalies
 
-🚀 What I learnt?
+🚀 **What I learnt**?
 -	Database design (1NF, 2NF, 3NF)
 -	Difference between normalization & denormalization
 -	ER modeling & cardinalities
 -	Anomalies in DBMS
 
-🚀 What is impact?
+🚀 **What is impact**?
 
 - Helps telecoms reduce churn, improve retention, and optimize customer plans.
 
-🚀 Skills Used
+🚀 **Skills Used**
 -	SQL (DDL, DML, Normalization, ER Modeling)
 -	Data Cleaning & Transformation
 -	DBMS Concepts (anomalies, relationships, cardinalities)
 
-#SQL #DatabaseNormalization #ERModel #ChurnPrediction #DataScience #FresherProjects #JobReady
+**#SQL #DatabaseNormalization #ERModel #ChurnPrediction #DataScience #FresherProjects #JobReady**
 
 <img width="650" height="224" alt="21  difference between norm and denorm" src="https://github.com/user-attachments/assets/1fbd3d55-714a-4ef2-8797-ca195b76ba81" />
 <img width="655" height="345" alt="18  normalization example -1" src="https://github.com/user-attachments/assets/ac5eaecc-27f8-4611-9acd-6c79c3a056da" />

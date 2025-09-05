@@ -1,4 +1,4 @@
-✨ **Excited to share my latest project!** 🚀
+✨ **Excited to share my latest project!** ✨
 
 **Project Name: Customer-Churn-Prediction SQL Project using Database Normalization.**
 

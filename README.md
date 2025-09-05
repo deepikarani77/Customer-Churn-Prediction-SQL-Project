@@ -24,21 +24,21 @@ anomalies,  and generate churn insights.
 
 🚀 Goal: 
 
-Predicts telecom customer churn by storing, normalizing, and analyzing customer data in SQL.
+- Predicts telecom customer churn by storing, normalizing, and analyzing customer data in SQL.
 
 🚀 Tech stack: 
 
-MySQL, ER Modeling
+- MySQL, ER Modeling
 
 🚀 Tech Used
 
-MySQL
-Python (Pandas)
-Excel/CSV Import
+- MySQL
+- Python (Pandas)
+- Excel/CSV Import
 
 🚀 Key skills shown: 
 
-Database Normalization, ER Diagrams, SQL Queries, Data Cleaning, Churn Analysis.
+- Database Normalization, ER Diagrams, SQL Queries, Data Cleaning, Churn Analysis.
 
 🚀 What I did in this project?
 -	Designed normalized schema
@@ -53,7 +53,8 @@ Database Normalization, ER Diagrams, SQL Queries, Data Cleaning, Churn Analysis.
 -	Anomalies in DBMS
 
 🚀 What is impact?
-Helps telecoms reduce churn, improve retention, and optimize customer plans.
+
+- Helps telecoms reduce churn, improve retention, and optimize customer plans.
 
 🚀 Skills Used
 -	SQL (DDL, DML, Normalization, ER Modeling)

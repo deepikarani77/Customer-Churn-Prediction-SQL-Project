@@ -63,6 +63,7 @@ anomalies,  and generate churn insights.
 
 **#SQL #DatabaseNormalization #ERModel #ChurnPrediction #DataScience #FresherProjects #JobReady**
 
+
 <img width="650" height="224" alt="21  difference between norm and denorm" src="https://github.com/user-attachments/assets/1fbd3d55-714a-4ef2-8797-ca195b76ba81" />
 <img width="655" height="345" alt="18  normalization example -1" src="https://github.com/user-attachments/assets/ac5eaecc-27f8-4611-9acd-6c79c3a056da" />
 <img width="667" height="698" alt="19  after normalization example - 2" src="https://github.com/user-attachments/assets/ad52d4be-510f-49b8-9e8d-45eb920e5a6e" />

@@ -1,19 +1,66 @@
-**🚀 Project Showcase: Customer Churn Data Normalization**
+✨ **Excited to share my latest project!** 🚀
 
-**📊 Problem Statement:**
-Customer churn data often contains duplicates, redundancy, and inconsistencies, making analysis and predictions less accurate.
+**Project Name: Customer-Churn-Prediction SQL Project using Database Normalization.**
 
-**🛠️ Concepts Used (Normalization):**
+🚀 Problem Statement
 
-1NF: Removed repeating groups, ensured atomic values
+Telecom companies lose revenue due to customer churn. Managing customer data in one large table 
+leads to redundancy & anomalies.
 
-2NF: Separated data into tables – Customers, Subscriptions, Transactions
+🚀 Solution
 
-3NF: Eliminated transitive dependencies
+Designed a normalized SQL database with ER modeling to efficiently manage churn data, reduce 
+anomalies,  and generate churn insights.
 
-Used Primary & Foreign Keys for integrity and relationships
+🚀 concepts used in this project.
+-	Database normalization and entity relationship model
+-	Define database normalization and denormalization
+-	Define Entity Relationship (ER) Model
+-	Difference between entity. Attribute and relationship of ER Diagram
+-	Define relationship, relationship sets, relationship degree, 
+-	Define mapping cardinalities
+-	Explain cardinalities Notations of ER Diagram 
+-	Define Anomalies and its types [data redundancy, insert anomaly, update anomaly, delete anomaly]
 
-**✅ Impact:** Structured and clean dataset ready for accurate churn analysis, easier updates, and reliable insights.
+🚀 Goal: 
+
+Predicts telecom customer churn by storing, normalizing, and analyzing customer data in SQL.
+
+🚀 Tech stack: 
+
+MySQL, ER Modeling
+
+🚀 Tech Used
+
+MySQL
+Python (Pandas)
+Excel/CSV Import
+
+🚀 Key skills shown: 
+
+Database Normalization, ER Diagrams, SQL Queries, Data Cleaning, Churn Analysis.
+
+🚀 What I did in this project?
+-	Designed normalized schema
+-	Built ER model
+-	Wrote SQL queries for churn insights
+-	Handled anomalies
+
+🚀 What I learnt?
+-	Database design (1NF, 2NF, 3NF)
+-	Difference between normalization & denormalization
+-	ER modeling & cardinalities
+-	Anomalies in DBMS
+
+🚀 What is impact?
+Helps telecoms reduce churn, improve retention, and optimize customer plans.
+
+🚀 Skills Used
+-	SQL (DDL, DML, Normalization, ER Modeling)
+-	Data Cleaning & Transformation
+-	DBMS Concepts (anomalies, relationships, cardinalities)
+
+#SQL #DatabaseNormalization #ERModel #ChurnPrediction #DataScience #FresherProjects #JobReady
 
 <img width="650" height="224" alt="21  difference between norm and denorm" src="https://github.com/user-attachments/assets/1fbd3d55-714a-4ef2-8797-ca195b76ba81" />
 <img width="655" height="345" alt="18  normalization example -1" src="https://github.com/user-attachments/assets/ac5eaecc-27f8-4611-9acd-6c79c3a056da" />
